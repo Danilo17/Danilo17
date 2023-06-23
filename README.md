@@ -52,9 +52,6 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
 
 #### ☁ Hosting/SaaS:
 <p>
-    <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
-    </a>
     <a href="https://firebase.google.com/docs?hl=pt-br" target="_blank" rel="noreffer">
         <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
     </a>
