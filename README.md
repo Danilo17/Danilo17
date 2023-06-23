@@ -17,7 +17,7 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
   
 </div>
 
-## 💻 Tech Stack (Skills) 
+## Skills
 
 #### 🖥️ Frontend:
 <p>
@@ -67,30 +67,20 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
 
 </p>
 
-#### 📋 All Languages:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🎛️ Operating System:
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
 
 ## 	📱 Contact and social media
-<div>
-    <a href="https://wa.me/558898818311" target="_blank"> <img align="center" alt="whatsapp" height="30" src="https://pics.freeicons.io/uploads/icons/png/15755769251556105345-512.png"> </a>
+<p>
+   <a href="https://wa.me/558898818311" target="_blank" rel="noreffer"> 
+      <img align="center" alt="whatsapp" height="30" src="https://pics.freeicons.io/uploads/icons/png/15755769251556105345-512.png">
+   </a>
     
-  <a href="https://wa.me/558898818311" target="_blank"> <img align="center" alt="whatsapp" height="30" src="https://pics.freeicons.io/uploads/icons/png/15755769251556105345-512.png"> </a>
-</div
+  <a href="linkedin.com/in/danilo-correia-viana-3118a921a/" target="_blank" rel="noreffer">
+      <img align="center" alt="linkedin" height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> 
+  </a>
+</p>
 
 
 
