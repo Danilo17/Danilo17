@@ -7,7 +7,7 @@ Meu nome é Danilo Correia Viana .
 Sou um profissional que busca constantemente aprimorar meus conhecimentos
 e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com o desenvolvimento Front-End e sou estudante universitário.
 
-- 👨‍🎓 Atualmente sou graduando em Bacharelado em Sistemas de Informação pelo IFCE-Campus Crato.
+👨‍🎓 Atualmente sou graduando em Bacharelado em Sistemas de Informação pelo IFCE-Campus Crato.
 
 
 <div align="center">
@@ -89,7 +89,7 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
 
 - You can find me at:
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588988183118)
+[![Whatsapp]([https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://pics.freeicons.io/uploads/icons/png/15755769251556105345-512.png))](https://wa.me/5588988183118)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-correia-viana-3118a921a/)
 
 
