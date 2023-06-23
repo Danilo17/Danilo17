@@ -22,31 +22,31 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
 #### 🖥️ Frontend:
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="html5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="html5" height="50" />
     </a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="css3" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="css3" height="50" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" title="javascript"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="javascript" height="50"/>
     </a>
     <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="react js"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="react js" height="50"/>
     </a>
     <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactNative" title="react native" />
+        <img src="https://youteam.io/blog/wp-content/uploads/2021/11/react-native-logo.png" alt="ReactNative" title="react native" height="50" />
     </a>
     <a href="https://www.figma.com/developers" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="figma" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" title="figma" height="50"/>
     </a>
     <a href="https://docs.expo.dev/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" title="expo" />
+        <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" alt="Expo" title="expo" height="50" />
     </a>
 </p>
 
 
 
-### 🧑‍💻 Developer/Forums
+#### 🧑‍💻 Developer/Forums
 
 <div style="display: inline_block"><br>
    <a href="https://stackoverflow.com" target="_blank" rel="noreffer"> 
@@ -54,7 +54,7 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
    </a>
     
   <a href="https://codepen.io" target="_blank" rel="noreffer">
-      <img align="center" alt="codepen" height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png"> 
+      <img align="center" alt="codepen" height="50" src="https://static-00.iconduck.com/assets.00/codepen-icon-2048x2048-exgaf7ia.png"> 
   </a>
 </div>
 
