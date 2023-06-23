@@ -50,11 +50,11 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
 
 <div style="display: inline_block"><br>
    <a href="https://stackoverflow.com" target="_blank" rel="noreffer"> 
-      <img align="center" alt="stack" height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/stackoverflow_logo_icon_170707.png">
+      <img align="center" alt="stack" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png">
    </a>
     
   <a href="https://codepen.io" target="_blank" rel="noreffer">
-      <img align="center" alt="codepen" height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> 
+      <img align="center" alt="codepen" height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png"> 
   </a>
 </div>
 
