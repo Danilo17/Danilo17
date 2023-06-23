@@ -72,7 +72,7 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
 <br>
 
 ## 	📱 Contact and social media
-<p>
+<div style="display: inline_block"><br>
    <a href="https://wa.me/558898818311" target="_blank" rel="noreffer"> 
       <img align="center" alt="whatsapp" height="30" src="https://pics.freeicons.io/uploads/icons/png/15755769251556105345-512.png">
    </a>
@@ -80,7 +80,7 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
   <a href="linkedin.com/in/danilo-correia-viana-3118a921a/" target="_blank" rel="noreffer">
       <img align="center" alt="linkedin" height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> 
   </a>
-</p>
+</div>
 
 
 
