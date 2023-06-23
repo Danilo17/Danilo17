@@ -53,16 +53,16 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
 #### ☁ Hosting/SaaS:
 <p>
     <a href="https://firebase.google.com/docs?hl=pt-br" target="_blank" rel="noreffer">
-        <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
+        <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" height="50">
     </a>
     <a href="https://www.heroku.com/" target="_blank" rel="noreffer">
-        <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+        <img src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-heroku-512.png" alt="Heroku"  height="50">
     </a>
     <a href="https://www.netlify.com/" target="_blank" rel="noreffer">
-        <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
+        <img src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png" alt="Netlify"  height="50">
     </a>
     <a href="https://vercel.com/" target="_blank" rel="noreffer">
-        <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+        <img src="https://karmanivero.us/assets/images/logo-vercel.png" alt="Vercel"  height="50">
     </a>
 
 </p>
@@ -73,12 +73,12 @@ e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com 
 
 ## 	📱 Contact and social media
 <div style="display: inline_block"><br>
-   <a href="https://wa.me/558898818311" target="_blank" rel="noreffer"> 
-      <img align="center" alt="whatsapp" height="30" src="https://pics.freeicons.io/uploads/icons/png/15755769251556105345-512.png">
+   <a href="https://wa.me/5588988183118" target="_blank" rel="noreffer"> 
+      <img align="center" alt="whatsapp" height="50" src="https://pics.freeicons.io/uploads/icons/png/15755769251556105345-512.png">
    </a>
     
   <a href="linkedin.com/in/danilo-correia-viana-3118a921a/" target="_blank" rel="noreffer">
-      <img align="center" alt="linkedin" height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> 
+      <img align="center" alt="linkedin" height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> 
   </a>
 </div>
 
