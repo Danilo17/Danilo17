@@ -40,3 +40,6 @@ Meu nome é Danilo Correia Viana. Sou um profissional que busca constantemente a
 
 - [WhatsApp](https://wa.me/5588988183118)
 - [LinkedIn](https://linkedin.com/in/danilo-correia-viana-3118a921a)
+
+<a href="https://wa.me/5588988183118" target="_blank" rel="noreffer" style="border-radius: 5px; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none;">WhatsApp</a>
+
